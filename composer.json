@@ -1,0 +1,15 @@
+{
+    "name": "antis/bphp-hw8-composer-heroku",
+    "description": "bphp homework",
+    "authors": [
+        {
+            "name": "Anton Bugryakov",
+            "email": "antis_amdg@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}

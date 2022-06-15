@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "A simple php app",
+  "repository": "https://github.com/Antis85/bphp-hw8-composer-heroku",
+  "addons": []
+}
